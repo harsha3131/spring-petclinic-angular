@@ -179,4 +179,3 @@ This project is currently maintained by **Sri Harsha Joshi**, a Java Full Stack 
 
 *   **GitHub:** Sri Harsha Joshi
 *   **Email:** harshajoshi3103@gmail.com
-*   **LinkedIn:** Sri Harsha Joshi
